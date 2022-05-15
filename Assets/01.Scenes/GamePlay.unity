@@ -133,7 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 67221141}
   m_Layer: 0
-  m_Name: bottomLeft
+  m_Name: marker_bottomLeft
   m_TagString: Untagged
   m_Icon: {fileID: 7422848464349959988, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -218,7 +218,7 @@ GameObject:
   - component: {fileID: 681872483}
   m_Layer: 0
   m_Name: Main Camera
-  m_TagString: Untagged
+  m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -495,7 +495,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1966232143}
   m_Layer: 0
-  m_Name: topRight
+  m_Name: marker_topRight
   m_TagString: Untagged
   m_Icon: {fileID: 7422848464349959988, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
